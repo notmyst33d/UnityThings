@@ -3,6 +3,8 @@ Random Unity stuff
 
 If you need CLI usage for a certain thing, just run it
 
+My UnityPy fork is required to run these tools: https://github.com/notmyst33d/UnityPy
+
 ## patch_graphics_api.py
 Can be used to patch graphics APIs in `globalgamemanagers`, however this will break the game if it uses shaders, if you have a replacement shaders then you can use `patch_shader.py` to replace them
 
